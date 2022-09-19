@@ -18,9 +18,11 @@ migration, the relation between these indicators can be determined. Further, rec
 for the prediction of how these numbers will change over the next 30-year period.
 
 HYPOTHESIS
+
 Demographic trends in a region, such as population growth and migration, can predict trends in employment types.
 
 DATASET
+
 The London Datastore provides open and freely accessible datasets about parameters in London such as housing,
 health, education, crime, and environmental indicators. Historical census dataset of around 2MB was downloaded
 from the datastore, which contains year-wise information extracted from different census tables. Multiple
@@ -30,6 +32,7 @@ the years 1991, 2001 and 2011. Since the smallest geographical division used for
 data can be readily used.
 
 CONCLUSION
+
 This study revealed patterns in population growth of the 32 boroughs in Greater London based on the census data
 from 1991, 2001 and 2011. The trend showed a gradual reduction in the fraction of people with full-time
 employment, with more people opting for part-time or self-employment roles. This is likely to be a continuing
