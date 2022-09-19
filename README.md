@@ -1,4 +1,5 @@
 INTRODUCTION
+
 Greater London, as we see today, is a large, culturally diverse, metropolitan county comprising of 32 boroughs
 and the City of London. The economic and social conditions of London in the mid-1960s gave rise to critical
 pressures that helped shape the history of boroughs. The entity of Greater London with its 32 boroughs was
